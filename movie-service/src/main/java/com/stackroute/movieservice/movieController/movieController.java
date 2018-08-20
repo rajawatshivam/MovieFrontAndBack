@@ -36,7 +36,7 @@ public ResponseEntity<?> saveMovies(@RequestBody Movie movie) throws MovieAlread
 
 		Movie movieobj=null;
 		try {
-		 movieobj=movieService.saveMovies(movie);
+		 movieobj=movieService.saveMovie(movie);
             }
            catch(MovieAlreadyExists m)
 			{

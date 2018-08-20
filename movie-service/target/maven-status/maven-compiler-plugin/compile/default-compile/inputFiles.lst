@@ -1,11 +1,11 @@
-/home/user/workspace/Java/movie mongodb/movie-service/src/main/java/com/stackroute/movieservice/exceptions/MovieNotFoundException.java
-/home/user/workspace/Java/movie mongodb/movie-service/src/main/java/com/stackroute/movieservice/services/MovieServiceImpl2.java
-/home/user/workspace/Java/movie mongodb/movie-service/src/main/java/com/stackroute/movieservice/services/MovieServiceImpl.java
-/home/user/workspace/Java/movie mongodb/movie-service/src/main/java/com/stackroute/movieservice/config/SwaggerConfig.java
-/home/user/workspace/Java/movie mongodb/movie-service/src/main/java/com/stackroute/movieservice/config/CommandLineAppStartupRunner.java
-/home/user/workspace/Java/movie mongodb/movie-service/src/main/java/com/stackroute/movieservice/MovieServiceApplication.java
-/home/user/workspace/Java/movie mongodb/movie-service/src/main/java/com/stackroute/movieservice/movieController/movieController.java
-/home/user/workspace/Java/movie mongodb/movie-service/src/main/java/com/stackroute/movieservice/services/MovieService.java
-/home/user/workspace/Java/movie mongodb/movie-service/src/main/java/com/stackroute/movieservice/exceptions/MovieAlreadyExists.java
-/home/user/workspace/Java/movie mongodb/movie-service/src/main/java/com/stackroute/movieservice/repository/MovieRepository.java
-/home/user/workspace/Java/movie mongodb/movie-service/src/main/java/com/stackroute/movieservice/domain/Movie.java
+/home/user/workspace/AngularJs/AngularMovieF+B/movie-service/src/main/java/com/stackroute/movieservice/exceptions/MovieNotFoundException.java
+/home/user/workspace/AngularJs/AngularMovieF+B/movie-service/src/main/java/com/stackroute/movieservice/services/MovieService.java
+/home/user/workspace/AngularJs/AngularMovieF+B/movie-service/src/main/java/com/stackroute/movieservice/config/SwaggerConfig.java
+/home/user/workspace/AngularJs/AngularMovieF+B/movie-service/src/main/java/com/stackroute/movieservice/exceptions/MovieAlreadyExists.java
+/home/user/workspace/AngularJs/AngularMovieF+B/movie-service/src/main/java/com/stackroute/movieservice/movieController/movieController.java
+/home/user/workspace/AngularJs/AngularMovieF+B/movie-service/src/main/java/com/stackroute/movieservice/services/MovieServiceImpl.java
+/home/user/workspace/AngularJs/AngularMovieF+B/movie-service/src/main/java/com/stackroute/movieservice/domain/Movie.java
+/home/user/workspace/AngularJs/AngularMovieF+B/movie-service/src/main/java/com/stackroute/movieservice/services/MovieServiceImpl2.java
+/home/user/workspace/AngularJs/AngularMovieF+B/movie-service/src/main/java/com/stackroute/movieservice/config/CommandLineAppStartupRunner.java
+/home/user/workspace/AngularJs/AngularMovieF+B/movie-service/src/main/java/com/stackroute/movieservice/MovieServiceApplication.java
+/home/user/workspace/AngularJs/AngularMovieF+B/movie-service/src/main/java/com/stackroute/movieservice/repository/MovieRepository.java

@@ -11,7 +11,7 @@ import com.stackroute.movieservice.exceptions.MovieNotFoundException;
 
 public interface MovieService {
 
-	public Movie saveMovies(Movie movie) throws MovieAlreadyExists;
+	public Movie saveMovie(Movie movie) throws MovieAlreadyExists;
 
 	public Movie deleteMovies(int movieId);
 
